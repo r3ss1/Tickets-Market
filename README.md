@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://www.youtube.com/watch?v=KdYci4gA2os&ab_channel=SonnySangha" target="_blank">
-      <img src="https://i.postimg.cc/5NR9bxFM/Sora-README.png" alt="Project Banner">
+      <img src="https://github.com/user-attachments/assets/eefed902-d41b-429a-b9c0-21c12dc8b0d4" alt="Project Banner">
     </a>
   <br />
 
