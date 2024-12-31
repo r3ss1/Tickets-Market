@@ -42,13 +42,13 @@
         </thead>
         <tbody style="background-color: #f9f9f9;">
             <tr>
-                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold;">December 2024</td>
-                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold;">Est. ~ April 2025</td>
-                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold;">
-                    <div style="background-color: #4caf50; width: 2px; height: 20px; border-radius: 10px; margin: 0 auto;"></div>
+                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold; text-align: center;">December 2024</td>
+                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold; text-align: center;">Est. ~ mid 2025</td>
+                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold; text-align: center;">
+                    <div style="background-color: #4caf50; width: 2px; height: 20px; border-radius: 10px; margin: 0 auto; text-align: center;"></div>
                     2%
                 </td>
-                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold;"> 6 hours </td>
+                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold; text-align: center;"> 6 hours </td>
             </tr>
         </tbody>
     </table>
