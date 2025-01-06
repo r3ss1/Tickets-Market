@@ -121,7 +121,7 @@ Follow these steps to set up the project locally on your machine.
 
 ### Cloning the Repository
 ```bash
-git clone https://github.com/r3ss1/Tickets-Market.git
+git clone https://github.com/rr3s1/Tickets-Market.git
 
 ```
 
