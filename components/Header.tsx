@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import logo from "@/images/logo.png";
 import { SignInButton, SignedIn, SignedOut, UserButton } from "@clerk/nextjs";
+import SearchBar from "./SearchBar";
 
 
 
@@ -34,7 +35,12 @@ function Header() {
               </SignInButton>
             </SignedOut>
           </div>
+          <div className="w-full lg:max-w-2xl">
+        <SearchBar />
+        </div>
     </div>
+
+        
   );
 }
 
